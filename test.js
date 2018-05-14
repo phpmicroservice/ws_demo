@@ -353,7 +353,7 @@ describe("yikemeng-ws", function () {
     })
 
     /* CMS */
-    describe.skip("CMS",function(){
+    describe.skipe("CMS",function(){
         //分类频道
         describe("分类频道",function(){
             it('cms 分类频道的列表', function (done) {
